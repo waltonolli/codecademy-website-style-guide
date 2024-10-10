@@ -1,0 +1,147 @@
+@import url(./reset.css);
+
+body {
+    background-color: #F2F2F2;
+    margin: 0 10%;
+}
+
+h1 {
+    font-family: "Noto Serif", serif;
+    font-weight: 700;
+    font-size: 26px;
+    margin: 20px auto;
+}
+
+h2 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    margin: 10px auto;
+}
+
+p {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    margin: 10px auto 10px;
+}
+
+.container {
+    border: 2px solid #7A7A7A;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.container-color {
+    width: 100%;
+}
+
+.color-block {
+    color: white;
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+    margin: 10px auto 10px;
+    padding: 10px;
+}
+
+.dark-blue {
+    background-color: #033354;
+}
+
+.yellow {
+    background-color: #FCCA00;
+    color: #033354;
+}
+
+.red {
+    background-color: #FF211F;
+}
+
+.blue {
+    background-color: #007ADF;
+}
+
+.off-white {
+    background-color: #D9CDBF;
+    color: #033354;
+}
+
+.container-font {
+    width: 100%;
+}
+
+.font-block {
+    display: inline-block;
+    width: 25%;
+    margin: 10px auto 10px;
+    padding: 10px 0;
+}
+
+.font-p {
+    margin: auto 20px 10px auto;
+}
+.noto-serif {
+    font-family: "Noto Serif";
+}
+
+.inconsolata {
+    font-family:"Inconsolata";
+}
+
+.ubunto {
+    font-family: "Ubuntu";
+}
+
+.font-name {
+    text-decoration: underline 1.5px;
+    font-size: 16px;
+    margin: auto auto 20px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+ul {
+    list-style-type: disc;
+    margin: auto auto auto 30px;
+}
+
+li {
+    font-family: "Open Sans";
+    font-size: 14px;
+    margin: auto auto 10px auto;
+}
+
+.main-title {
+    font-family: "Noto Serif";
+    font-size: 26px;
+    font-weight: 700;
+    margin: 25px auto;
+}
+
+.subtitle {
+    font-family: "Noto Serif";
+    font-size: 18px;
+    font-weight: 700;
+    margin: 25px auto;
+}
+
+.p-text {
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+    margin: 25px auto;
+}
+
+.quotes {
+    font-family: "Inconsolata";
+    font-size: 14px;
+    font-weight: 400;
+    margin: 25px auto;
+}
